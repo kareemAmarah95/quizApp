@@ -8,6 +8,7 @@
 
 body {
     background-color: #001e4d;
+    overflow-x: hidden;
 }
 
 .app {
